@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\domain\entities\example.entities\example.entities.csproj" />
+    <ProjectReference Include="..\..\..\domain\ports\example.ports\example.ports.csproj" />
+    <ProjectReference Include="..\..\dto\example.dtos\example.dtos.csproj" />
+  </ItemGroup>
+
+</Project>

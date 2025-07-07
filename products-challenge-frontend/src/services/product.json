@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PRD001",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "category": "Electronics",
+    "price": "$29.99",
+    "createdAt": "07/01/2025"
+  },
+  {
+    "id": "PRD002",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard (Cherry MX Blue).",
+    "category": "Electronics",
+    "price": "$79.99",
+    "createdAt": "06/28/2025"
+  },
+  {
+    "id": "PRD003",
+    "name": "Noise-Cancelling Headphones",
+    "description": "Over-ear Bluetooth headphones with active noise cancellation.",
+    "category": "Audio",
+    "price": "$199.99",
+    "createdAt": "06/30/2025"
+  },
+  {
+    "id": "PRD004",
+    "name": "4K Monitor",
+    "description": "27-inch 4K UHD LED monitor with ultra-thin bezels.",
+    "category": "Electronics",
+    "price": "$349.99",
+    "createdAt": "07/02/2025"
+  },
+  {
+    "id": "PRD005",
+    "name": "USB-C Hub",
+    "description": "Multiport USB-C hub with HDMI, USB-A, and SD card slots.",
+    "category": "Accessories",
+    "price": "$49.99",
+    "createdAt": "06/25/2025"
+  }
+]

@@ -1,0 +1,33 @@
+D:/Net/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.deps.json
+D:/Net/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.AssemblyInfo.cs
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/refint/example.entities.dll
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/ref/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/bin/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/refint/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/entities/example.entities/obj/Debug/net9.0/ref/example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\bin\Debug\net9.0\example.entities.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\bin\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\bin\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\refint\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\entities\example.entities\obj\Debug\net9.0\ref\example.entities.dll

@@ -1,0 +1,33 @@
+D:/Net/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.deps.json
+D:/Net/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.dll
+D:/Net/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.pdb
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.AssemblyInfo.cs
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.dll
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/refint/example.dtos.dll
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.pdb
+D:/Net/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/ref/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/bin/Debug/net9.0/example.dtos.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/refint/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/example.dtos.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/dto/example.dtos/obj/Debug/net9.0/ref/example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\bin\Debug\net9.0\example.dtos.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\bin\Debug\net9.0\example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\bin\Debug\net9.0\example.dtos.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\refint\example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\example.dtos.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\dto\example.dtos\obj\Debug\net9.0\ref\example.dtos.dll

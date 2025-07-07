@@ -1,0 +1,57 @@
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.deps.json
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.pdb
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.dtos.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.ports.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.ports.pdb
+D:/Net/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.dtos.pdb
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.csproj.AssemblyReference.cache
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.AssemblyInfo.cs
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example..561922AF.Up2Date
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/refint/example.usecase.dll
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.pdb
+D:/Net/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/ref/example.usecase.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.usecase.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/bin/Debug/net9.0/example.dtos.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.csproj.AssemblyReference.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example..561922AF.Up2Date
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/refint/example.usecase.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/example.usecase.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/application/use-case/example.usecase/obj/Debug/net9.0/ref/example.usecase.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.usecase.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.usecase.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.usecase.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.ports.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\bin\Debug\net9.0\example.dtos.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.csproj.AssemblyReference.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example..561922AF.Up2Date
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\refint\example.usecase.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\example.usecase.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\application\use-case\example.usecase\obj\Debug\net9.0\ref\example.usecase.dll

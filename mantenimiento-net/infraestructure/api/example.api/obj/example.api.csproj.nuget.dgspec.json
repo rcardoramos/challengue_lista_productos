@@ -1,0 +1,409 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\api\\example.api\\example.api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\example.dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\example.dtos.csproj",
+        "projectName": "example.dtos",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\example.dtos.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\example.usecase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\example.usecase.csproj",
+        "projectName": "example.usecase",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\example.usecase.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\example.dtos.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\dto\\example.dtos\\example.dtos.csproj"
+              },
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj"
+              },
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj",
+        "projectName": "example.entities",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj",
+        "projectName": "example.ports",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\example.adapters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\example.adapters.csproj",
+        "projectName": "example.adapters",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\example.adapters.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\entities\\example.entities\\example.entities.csproj"
+              },
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\domain\\ports\\example.ports\\example.ports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\api\\example.api\\example.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\api\\example.api\\example.api.csproj",
+        "projectName": "example.api",
+        "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\api\\example.api\\example.api.csproj",
+        "packagesPath": "C:\\Users\\RICARDO RAMOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\api\\example.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RICARDO RAMOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\example.usecase.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\application\\use-case\\example.usecase\\example.usecase.csproj"
+              },
+              "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\example.adapters.csproj": {
+                "projectPath": "C:\\Users\\RICARDO RAMOS\\OneDrive\\Escritorio\\mantenimiento-net\\infraestructure\\adapters\\example.adapters\\example.adapters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

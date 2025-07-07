@@ -1,0 +1,45 @@
+D:/Net/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.deps.json
+D:/Net/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.dll
+D:/Net/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.pdb
+D:/Net/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.csproj.AssemblyReference.cache
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.AssemblyInfo.cs
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example..3B567450.Up2Date
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.dll
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/refint/example.ports.dll
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.pdb
+D:/Net/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/ref/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/bin/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.csproj.AssemblyReference.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example..3B567450.Up2Date
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/refint/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/domain/ports/example.ports/obj/Debug/net9.0/ref/example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\bin\Debug\net9.0\example.ports.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\bin\Debug\net9.0\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\bin\Debug\net9.0\example.ports.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\bin\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\bin\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.csproj.AssemblyReference.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example..3B567450.Up2Date
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\refint\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\example.ports.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\domain\ports\example.ports\obj\Debug\net9.0\ref\example.ports.dll

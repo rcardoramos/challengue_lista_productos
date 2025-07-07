@@ -1,0 +1,164 @@
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/appsettings.Development.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/appsettings.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.staticwebassets.endpoints.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.exe
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.deps.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.runtimeconfig.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.csproj.AssemblyReference.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.AssemblyInfo.cs
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.MvcApplicationPartsAssemblyInfo.cs
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.MvcApplicationPartsAssemblyInfo.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/scopedcss/bundle/example.api.styles.css
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.json.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.development.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example..478A3352.Up2Date
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/refint/example.api.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.genruntimeconfig.cache
+D:/Net/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/ref/example.api.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.adapters.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.dtos.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.ports.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.usecase.dll
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.usecase.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.adapters.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.dtos.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/appsettings.Development.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/appsettings.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.staticwebassets.endpoints.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.runtimeconfig.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.api.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.adapters.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.dtos.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.usecase.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.usecase.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.adapters.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.dtos.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/bin/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.csproj.AssemblyReference.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.MvcApplicationPartsAssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/scopedcss/bundle/example.api.styles.css
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.development.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example..478A3352.Up2Date
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/refint/example.api.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/example.api.genruntimeconfig.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/api/example.api/obj/Debug/net9.0/ref/example.api.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\appsettings.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.staticwebassets.endpoints.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.exe
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.runtimeconfig.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.api.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.adapters.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.dtos.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.usecase.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.usecase.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.adapters.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.dtos.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\bin\Debug\net9.0\example.ports.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.csproj.AssemblyReference.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\scopedcss\bundle\example.api.styles.css
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example..478A3352.Up2Date
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\refint\example.api.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\example.api.genruntimeconfig.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\api\example.api\obj\Debug\net9.0\ref\example.api.dll

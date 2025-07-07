@@ -1,0 +1,51 @@
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.deps.json
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.dll
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.pdb
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.entities.dll
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.ports.dll
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.entities.pdb
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.ports.pdb
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.csproj.AssemblyReference.cache
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.GeneratedMSBuildEditorConfig.editorconfig
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.AssemblyInfoInputs.cache
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.AssemblyInfo.cs
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.csproj.CoreCompileInputs.cache
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example..A251F749.Up2Date
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.dll
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/refint/example.adapters.dll
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.pdb
+D:/Net/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/ref/example.adapters.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.deps.json
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.adapters.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.entities.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.ports.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.entities.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/bin/Debug/net9.0/example.ports.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.csproj.AssemblyReference.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.AssemblyInfoInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.AssemblyInfo.cs
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.csproj.CoreCompileInputs.cache
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example..A251F749.Up2Date
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/refint/example.adapters.dll
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/example.adapters.pdb
+/Users/kevinsalazar/Desktop/challenge/ric-challenge/mantenimiento-net/infraestructure/adapters/example.adapters/obj/Debug/net9.0/ref/example.adapters.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.adapters.deps.json
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.adapters.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.adapters.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.entities.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.ports.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.entities.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\bin\Debug\net9.0\example.ports.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.csproj.AssemblyReference.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.AssemblyInfoInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.AssemblyInfo.cs
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example..A251F749.Up2Date
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\refint\example.adapters.dll
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\example.adapters.pdb
+C:\Users\RICARDO RAMOS\OneDrive\Escritorio\mantenimiento-net\infraestructure\adapters\example.adapters\obj\Debug\net9.0\ref\example.adapters.dll
